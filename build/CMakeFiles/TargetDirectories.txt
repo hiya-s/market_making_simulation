@@ -1,0 +1,3 @@
+/mnt/c/coding/finance/market_making_simulation/build/CMakeFiles/sim.dir
+/mnt/c/coding/finance/market_making_simulation/build/CMakeFiles/edit_cache.dir
+/mnt/c/coding/finance/market_making_simulation/build/CMakeFiles/rebuild_cache.dir
